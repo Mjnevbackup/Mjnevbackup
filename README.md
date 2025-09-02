@@ -4,15 +4,21 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33&height=200&section=header&text=👨‍💻%20minhe51805&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=👨‍💻%20minhe51805&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Code+Enthusiast+%26+Cat+Lover+🐱;Building+Digital+Dreams+💻" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🚀;Code+Enthusiast+%26+Cat+Lover+🐱;Building+Digital+Dreams+💻;Coffee+%2B+Code+%2B+Cats+%3D+Perfect+Day+☕" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
 
-## 👋 Hey there! 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=8"/>
+</div>
+
+## 👋 Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 
 <img align="right" alt="Coding Cat" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
@@ -41,7 +47,15 @@ console.log(developer.getMotivation());
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,33&height=8"/>
+</div>
+
+## 🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Building+with+modern+technologies+⚡;Full-stack+development+mastery+🔥;Always+learning%2C+always+growing+🌱" alt="Tech Quote" />
+</div>
 
 ### Frontend
 <p>
@@ -73,7 +87,15 @@ console.log(developer.getMotivation());
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=20,33,12&height=8"/>
+</div>
+
+## 📊 GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Tracking+my+coding+journey+📈;Data-driven+development+📊;Statistics+tell+the+story+📚" alt="Stats Quote" />
+</div>
 
 <div align="center">
 
@@ -87,7 +109,15 @@ console.log(developer.getMotivation());
 
 ---
 
-## 🐱 Cat Corner
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=33,6,20&height=8"/>
+</div>
+
+## 🐱 Cat Corner <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="35">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Debugging+with+feline+wisdom+🐾;Cat-powered+development+🚀;Meow-driven+programming+😸" alt="Cat Quote" />
+</div>
 
 <div align="center">
 
@@ -115,9 +145,21 @@ console.log(developer.getMotivation());
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ---
 
-## 🚀 Current Mission
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=11,33,6&height=8"/>
+</div>
+
+## 🚀 Current Mission <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="35">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Building+the+future+one+line+at+a+time+⚡;Innovation+through+collaboration+🤝;Always+ready+for+new+challenges+🎯" alt="Mission Quote" />
+</div>
 
 - 🔭 Working on full-stack web applications
 - 🌱 Learning advanced React patterns and system design
@@ -127,7 +169,15 @@ console.log(developer.getMotivation());
 
 ---
 
-## 📫 Let's Connect!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,20,11&height=8"/>
+</div>
+
+## 📫 Let's Connect! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Ready+to+collaborate+and+create+✨;Let's+build+something+amazing+together+🚀;Open+to+new+opportunities+🌟" alt="Connect Quote" />
+</div>
 
 <div align="center">
 
@@ -150,12 +200,17 @@ console.log(developer.getMotivation());
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Thanks for visiting! Happy coding and may your builds always pass! 🚀**
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80">
 
-<img src="https://komarev.com/ghpvc/?username=minhe51805&color=blueviolet&style=flat-square&label=Profile+Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=00FFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+space!+🌟;Happy+coding+and+may+your+builds+always+pass!+🚀;Keep+exploring%2C+keep+creating!+✨" alt="Thanks" />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33&height=100&section=footer&animation=fadeIn)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=minhe51805&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/minhe51805?label=Followers&style=for-the-badge&color=blue" />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontAlignY=80)
 
 </div>
