@@ -31,6 +31,7 @@ const developer = {
     
     workingWith: [
         "React", "Node.js", "Python",
+        "Flutter/Dart", "IoT/ESP32",
         "Machine Learning", "Deep Learning",
         "Databases", "System Design"
     ],
@@ -76,11 +77,19 @@ console.log("Welcome to my profile!");
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+**Mobile & IoT**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-FF6600?style=for-the-badge&logo=internet-of-things&logoColor=white" />
+</p>
+
 **Other**
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
@@ -88,14 +97,38 @@ console.log("Welcome to my profile!");
 ## 📊 GitHub Stats
 
 <div align="center">
-
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhe51805&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhe51805&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhe51805&theme=github-dark-blue&hide_border=true&background=0d1117)
-
+  
 </div>
+
+---
+
+## 🗂️ Featured Projects
+
+### 🤖 AI & Machine Learning
+- **[AI_AGENT_ByDevMinhE5](https://github.com/minhe51805/AI_AGENT_ByDevMinhE5)** - AI Agent implementation with Python
+- **[Esp32_Data-And-Camera](https://github.com/minhe51805/Esp32_Data-And-Camera)** - IoT data processing with camera integration
+- **[TruongDuongBaoMinh_Lab06](https://github.com/minhe51805/TruongDuongBaoMinh_228060970_Lab06)** - Data science lab work
+
+### 💻 Web Development
+- **[app_web_shopping](https://github.com/minhe51805/app_web_shopping_228060170)** - E-commerce platform with Dart
+- **[Booking_Web_team](https://github.com/minhe51805/Booking_Web_team)** - Team booking system
+- **[Web3D](https://github.com/minhe51805/Web3D)** - 3D web application with JavaScript
+- **[Profile_cv](https://github.com/minhe51805/Profile_cv)** - Personal portfolio website
+
+### 📱 Mobile & IoT
+- **[NFC-master](https://github.com/minhe51805/NFC-master)** - NFC technology implementation with Dart
+- **[App-noting_reminder](https://github.com/minhe51805/App-noting_reminder)** - Note-taking reminder app
+- **[Web_SmartSwitch_BangD](https://github.com/minhe51805/Web_SmartSwitch_BangD)** - Smart switch control interface
+
+### 📊 Data & Analytics
+- **[mamothon](https://github.com/minhe51805/mamothon)** - Data processing project with TypeScript
+- **[bmttnc-hutech](https://github.com/minhe51805/bmttnc-hutech-228060970)** - Academic data analysis project
 
 ---
 
@@ -113,11 +146,11 @@ console.log("Welcome to my profile!");
 ## 📫 Connect
 
 <div align="center">
-
-<a href="https://github.com/minhe51805">
+  
+        <a href="https://github.com/minhe51805">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:truongminh0949@gmail.com">
+        </a>
+        <a href="mailto:truongminh0949@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="#">
@@ -126,15 +159,15 @@ console.log("Welcome to my profile!");
 <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+  
 </div>
 
 ---
 
 <div align="center">
-
+  
 **Thanks for visiting!** 
 
 <img src="https://komarev.com/ghpvc/?username=minhe51805&color=blueviolet&style=flat-square&label=Profile+Views" />
-
+  
 </div>
