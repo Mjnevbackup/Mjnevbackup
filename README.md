@@ -104,7 +104,7 @@ console.log("Welcome to my profile!");
       <img src="https://github-readme-stats.vercel.app/api?username=minhe51805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
       </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhe51805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=6" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhe51805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8&hide=c,assembly,makefile,cmake&include_all_commits=true&count_private=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -160,53 +160,23 @@ console.log("Welcome to my profile!");
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 📫 Connect
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-
-**Ready to build something amazing together? Let's talk!** 
-
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/minhe51805">
-        <img src="https://img.shields.io/badge/🚀%20GitHub%20Profile-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" />
-        <br>
-        <sub><b>Check out my repos</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="mailto:truongminh0949@gmail.com">
-        <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
-        <br>
-        <sub><b>Let's discuss projects</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <a href="#">
-        <img src="https://img.shields.io/badge/💬%20Discord%20Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=30" />
-        <br>
-        <sub><b>Quick conversations</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="#">
-        <img src="https://img.shields.io/badge/🌐%20LinkedIn%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
-        <br>
-        <sub><b>Professional connect</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💡+Open+to+collaboration+opportunities;🚀+Let's+build+the+future+together;📱+Always+excited+for+new+projects;🤖+Especially+interested+in+AI%2FML+work" alt="Contact Invitation" />
-
+  
+        <a href="https://github.com/minhe51805">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="mailto:truongminh0949@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  
 </div>
 
 ---
