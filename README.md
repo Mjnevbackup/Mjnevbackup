@@ -31,6 +31,7 @@ const developer = {
     
     workingWith: [
         "React", "Node.js", "Python",
+        "Machine Learning", "Deep Learning",
         "Databases", "System Design"
     ],
     
@@ -65,6 +66,16 @@ console.log("Welcome to my profile!");
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+**Machine Learning & AI**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
 **Other**
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -91,9 +102,10 @@ console.log("Welcome to my profile!");
 ## 🚀 Current Focus
 
 - 🔭 Building full-stack web applications
+- 🤖 Exploring Machine Learning and Deep Learning fundamentals
 - 🌱 Learning advanced React patterns and system design
 - 👯 Open to collaborating on interesting projects
-- 💬 Ask me about web development, databases, or programming best practices
+- 💬 Ask me about web development, ML fundamentals, databases, or programming best practices
 - ⚡ Always exploring new technologies and methodologies
 
 ---
