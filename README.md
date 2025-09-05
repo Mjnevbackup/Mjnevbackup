@@ -101,7 +101,7 @@ console.log("Welcome to my profile!");
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=minhe51805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=minhe51805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" />
       </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhe51805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8&hide=c,assembly,makefile,cmake&include_all_commits=true&count_private=true" alt="Top Languages" />
